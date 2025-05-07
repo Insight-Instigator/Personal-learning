@@ -2,7 +2,7 @@
 # Steps in Rendering a Web Page
 
 ## 1. DNS Resolution
-The browser looks up the domain name (e.g., www.example.com) using the Domain Name System (DNS) to find its corresponding IP address.
+The browser looks up the domain name using the Domain Name System (DNS) to find its corresponding IP address.
 
 ## 2. TCP/IP Connection
 Using the IP address, the browser establishes a connection with the web server through the Transmission Control Protocol/Internet Protocol (TCP/IP), ensuring reliable data transfer.
