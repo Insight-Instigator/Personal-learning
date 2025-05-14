@@ -48,7 +48,7 @@ logs/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/book-api.git
+git clone https://github.com/Insight-Instigator/Personal-learning.git
 cd book-api
 ```
 
