@@ -111,5 +111,4 @@ curl -X PUT "http://localhost:8000/books/1" -H "Content-Type: application/json" 
 curl -X DELETE http://localhost:8000/books/1
 ```
 
-## License
-This project is licensed under the MIT License. 
+
